@@ -8,8 +8,6 @@ Note: A fancier version of this portolfio is in the works, but for now you shoul
 
 ![Device Toggle Highlight](/images/device_toolbar.png)
 
----
-
 #Playables
 ####- [Airport BillionAir](/playables/air_sdmip_choosePilot_00_en_play.html)
 ####- [Alpha Bet](/playables/alp_sdmip_words_00_en_play.html)
