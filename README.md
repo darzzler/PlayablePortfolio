@@ -8,13 +8,14 @@ Note: A fancier version of this portolfio is in the works, but for now you shoul
 
 ![Device Toggle Highlight](/images/device_toolbar.png)
 
+
 #Playables
-####- [Airport BillionAir](/playables/air_sdmip_choosePilot_00_en_play.html)
-####- [Alpha Bet](/playables/alp_sdmip_words_00_en_play.html)
-####- [Time Factory Inc](/playables/fac_sdmip_cavemen_00_en_play_AL.html)
-####- [Find & Tap](/playables/fnt_sdmip_5items_en_play_AL.html)
-####- [Grow Animals](/playables/grw_sdmip_dino_00_en_play.html)
-####- [Lawn Mower](/playables/lwn_sdmip_wheat_00_en_play.html)
-####- [Iron March](/playables/pls_sdmip_plane_00_en_play.html)
-####- [Time Fixes](/playables/tif_sdmip_ambulance_00_en_play.html)
-####- [Tile Garden](/playables/til_sdmip_match3_00_en_play.html)
+- [Airport BillionAir](/playables/air_sdmip_choosePilot_00_en_play.html)
+- [Alpha Bet](/playables/alp_sdmip_words_00_en_play.html)
+- [Time Factory Inc](/playables/fac_sdmip_cavemen_00_en_play_AL.html)
+- [Find & Tap](/playables/fnt_sdmip_5items_en_play_AL.html)
+- [Grow Animals](/playables/grw_sdmip_dino_00_en_play.html)
+- [Lawn Mower](/playables/lwn_sdmip_wheat_00_en_play.html)
+- [Iron March](/playables/pls_sdmip_plane_00_en_play.html)
+- [Time Fixes](/playables/tif_sdmip_ambulance_00_en_play.html)
+- [Tile Garden](/playables/til_sdmip_match3_00_en_play.html)
