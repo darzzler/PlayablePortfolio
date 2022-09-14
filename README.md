@@ -11,7 +11,7 @@ Note: A fancier version of this portolfio is in the works, but for now you shoul
 
 # Playables
 - [Airport BillionAir](https://darzzler.github.io/PlayablePortfolio/playables/air_sdmip_choosePilot_00_en_play.html)
-- [Alpha Bet](https://darzzler.github.io/PlayablePortfolio/playables/playables/alp_sdmip_words_00_en_play.html)
+- [Alpha Bet](https://darzzler.github.io/PlayablePortfolio/playables/alp_sdmip_words_00_en_play.html)
 - [Time Factory Inc](https://darzzler.github.io/PlayablePortfolio/playables/fac_sdmip_cavemen_00_en_play_AL.html)
 - [Find & Tap](https://darzzler.github.io/PlayablePortfolio/playables/fnt_sdmip_5items_en_play_AL.html)
 - [Grow Animals](https://darzzler.github.io/PlayablePortfolio/playables/grw_sdmip_dino_00_en_play.html)
