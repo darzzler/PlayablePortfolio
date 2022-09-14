@@ -4,7 +4,7 @@ What lies ahead is a small collection of the playable ads I have made over the p
 
 Enjoy!
 
-Note: A fancier version of this portolfio is in the works, but for now you should be able to get a reasonable simulation of how these ads function on a mobile device using the device toggle found in the developer tools on most web browsers.  
+Note: A fancier version of this portolfio is in the works, but for now you should be able to get a reasonable simulation of how these ads function on a mobile device using the device toggle found in the developer tools on most web browsers. When you see the "Play Now!" button is when you would've been taken to the app store.  
 
 ![Device Toggle Highlight](/images/device_toolbar.png)
 
