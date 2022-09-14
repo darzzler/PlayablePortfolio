@@ -1,5 +1,5 @@
-#Hi!
-###Welcome to my portfolio!
+# Hi!
+### Welcome to my portfolio!
 What lies ahead is a small collection of the playable ads I have made over the past 2 years as a game developer at [Simple Duck Studios](https://www.simpleduckstudios.com/). This is a pretty small subset of my work, but thus far I have developed over 100 ads for a ton of different games. These ads were all developed using [Phaser](https://phaser.io/) and coded by me. In some cases the art was provided to me by the game's developers, but a typical project will see me working in Unity and Photoshop to render out the assets I need to create the playable in Phaser. 
 
 Enjoy!
@@ -9,7 +9,7 @@ Note: A fancier version of this portolfio is in the works, but for now you shoul
 ![Device Toggle Highlight](/images/device_toolbar.png)
 
 
-#Playables
+# Playables
 - [Airport BillionAir](/playables/air_sdmip_choosePilot_00_en_play.html)
 - [Alpha Bet](/playables/alp_sdmip_words_00_en_play.html)
 - [Time Factory Inc](/playables/fac_sdmip_cavemen_00_en_play_AL.html)
